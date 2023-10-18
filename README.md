@@ -18,4 +18,4 @@ The most challenging part of this code was getting started. By this I mean readi
 I feel that learning how to read data from a file, using that data throughout the program, and outputting further data to another file, are the most beneficial things I learned from this project.
 
 # How did you make this program maintainable, readable, and adaptable?
-I made this program readable by seperating un-like sections with an empty line, keeping like sections together, and using suffivient in-line comments. I could hvae done a better job making this program adaptable, by making it better suited for future changes.
+I made this program readable by seperating un-like sections with an empty line, keeping like sections together, and using sufficient in-line comments. I could have done a better job making this program adaptable, by making it better suited for future changes.
